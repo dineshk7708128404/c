@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-void printOdd(int a=1, int b=6);
+void printeven(int a=2, int b=9);
 int main()
 {
     int lowerLimit@a, upperLimit@b;
