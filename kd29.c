@@ -4,6 +4,7 @@
  
 int main()
 {
+ int i=52
       int hours, minutes, total_minutes;
       printf("\nEnter the Time in Hours and Minutes:\n");
       printf("\nHours:\t");
