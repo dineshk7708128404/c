@@ -1,4 +1,5 @@
 #include <stdio.h>
+#includwe<conio.h>
 struct TIME
 {
   int seconds;
