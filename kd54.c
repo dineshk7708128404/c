@@ -3,16 +3,16 @@
  
 int main(void) 
 {
-	int num,even;
+	int i,even;
 	printf("enter the number:");
-	scanf("%d",&num);
-	if(num%2==0)
+	scanf("%d",&i);
+	if(i%2==0)
 	{
-		even=num-2;	
+		even=i-2;	
 	}
 	else
 	{
-		even=num-1;
+		even=i-1;
 	}
 	printf("\n%d",even);
 	return 0;
