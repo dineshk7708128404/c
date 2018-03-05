@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-int main(void) 
+int main() 
 {
 	char str[30];
 	int n,i;
