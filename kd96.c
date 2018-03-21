@@ -15,7 +15,7 @@ if(flag==0)
 {
 printf("\n no");
 }
-else
+  else
 {
 printf("\n yes");
 }
